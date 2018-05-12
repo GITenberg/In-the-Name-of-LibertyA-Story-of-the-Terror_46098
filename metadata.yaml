@@ -1,0 +1,38 @@
+_repo: In-the-Name-of-LibertyA-Story-of-the-Terror_46098
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Castaigne, J. André
+    aliases:
+    - Castaigne, A. (André)
+    - Castaigne, Andre
+    - Castaigne, André
+    - Castaigne, J. Andre
+    gutenberg_agent_id: '31877'
+    url: http://www.gutenberg.org/2009/agents/31877
+covers:
+- cover_type: archival
+  image_path: 46098-h/images/cover_th.jpg
+creator:
+  author:
+    agent_name: Johnson, Owen
+    alias: Johnson, Owen McMahon
+    birthdate: 1878
+    deathdate: 1952
+    gutenberg_agent_id: '4502'
+    url: http://www.gutenberg.org/2009/agents/4502
+    wikipedia: http://en.wikipedia.org/wiki/Owen_Johnson
+description: ''
+gutenberg_issued: '2014-06-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46098'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'France -- History -- Revolution, 1789-1799 -- Fiction'
+title: 'In the Name of Liberty: A Story of the Terror'
+url: http://www.gutenberg.org/ebooks/46098
