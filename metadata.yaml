@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4502
     wikipedia: http://en.wikipedia.org/wiki/Owen_Johnson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46098#In-the-Name-of-LibertyA-Story-of-the-Terror
 gutenberg_issued: '2014-06-25'
 gutenberg_type: Text
 identifiers:
